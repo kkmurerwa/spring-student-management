@@ -1,5 +1,7 @@
-package com.murerwa.studentmanagement.student;
+package com.murerwa.studentmanagement.api;
 
+import com.murerwa.studentmanagement.domain.model.Student;
+import com.murerwa.studentmanagement.business.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

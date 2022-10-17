@@ -1,5 +1,7 @@
-package com.murerwa.studentmanagement.student;
+package com.murerwa.studentmanagement.config;
 
+import com.murerwa.studentmanagement.domain.model.Student;
+import com.murerwa.studentmanagement.domain.repository.StudentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

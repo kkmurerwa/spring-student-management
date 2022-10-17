@@ -1,4 +1,4 @@
-package com.murerwa.studentmanagement.student;
+package com.murerwa.studentmanagement.domain.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
